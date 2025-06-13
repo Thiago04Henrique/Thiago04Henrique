@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/Thiago04Henrique">
-    <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Thiago04Henrique&show_icons=true&theme=midnight-purple&hide_rank=true"/>
-    <img height="180em" src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=Thiago04Henrique&layout=compact&langs_count=10&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago04Henrique&show_icons=true&theme=midnight-purple&hide_rank=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago04Henrique&layout=compact&langs_count=10&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago04Henrique&theme=midnight-purple"/>
   </a>
 </div>
 
