@@ -4,7 +4,6 @@
   <a href="https://github.com/Thiago04Henrique">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago04Henrique&show_icons=true&theme=midnight-purple&hide_rank=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago04Henrique&layout=compact&langs_count=10&theme=midnight-purple"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago04Henrique&theme=midnight-purple"/>
   </a>
 </div>
 
@@ -29,8 +28,5 @@
   </a>
   <a href="https://www.linkedin.com/in/Thiago04Henrique" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/Thiago04Henrique" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
