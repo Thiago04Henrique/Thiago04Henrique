@@ -1,9 +1,8 @@
 ## Olá, bem-vindo(a) ao meu perfil! 👾
 
 <div align="center">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=tokyonight&hide_border=true&v=999" />
 </div>
-
 <br />
 
 <div align="center">
