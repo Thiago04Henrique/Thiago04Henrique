@@ -1,7 +1,7 @@
 ## Olá, bem-vindo(a) ao meu perfil! 👾
 
 <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago04Henrique&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago04Henrique&theme=tokyonight&hide_border=true&cache=false" />
 </div>
 
 <br />
