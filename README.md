@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago04Henrique&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://streak-stats.graphem.dev?user=Thiago04Henrique&theme=tokyonight&hide_border=true" />
 </div>
 
 <br />
