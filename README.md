@@ -3,7 +3,9 @@
 <br />
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago04Henrique&show_icons=true&theme=tokyonight&hide_border=true" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=tokyonight&hide_border=true&border_radius=4.1&locale=pt_BR&exclude_days=Sun%2CSat&card_width=500&card_height=200" alt="GitHub Streak" />
+    </a>
 </div>
 
 <br />
