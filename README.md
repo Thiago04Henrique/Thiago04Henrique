@@ -1,8 +1,11 @@
 ## Olá, bem-vindo(a) ao meu perfil! 👾
 
+<br />
+
 <div align="center">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=tokyonight&hide_border=true&v=999" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago04Henrique&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
+
 <br />
 
 <div align="center">
