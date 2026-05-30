@@ -4,7 +4,11 @@
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=kanagawa-paper&border_radius=6.0&locale=pt_BR&exclude_days=Sun%2CSat&card_width=510" alt="GitHub Streak" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=github-dark&hide_border=true&border_radius=6.0&locale=pt_BR&exclude_days=Sun%2CSat&card_width=510">
+            <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=github-light&hide_border=true&border_radius=6.0&locale=pt_BR&exclude_days=Sun%2CSat&card_width=510">
+            <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=github-dark&hide_border=true&border_radius=6.0&locale=pt_BR&exclude_days=Sun%2CSat&card_width=510">
+        </picture>
     </a>
 </div>
 
