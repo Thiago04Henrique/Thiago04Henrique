@@ -3,9 +3,7 @@
 <br />
 
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=kanagawa-paper&hide_border=true&border_radius=4.1&locale=pt_BR&exclude_days=Sun%2CSat&card_width=500&card_height=200" alt="GitHub Streak" />
-    </a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thiago04Henrique&theme=kanagawa-paper&hide_border=true&border_radius=4.1&locale=pt_BR&exclude_days=Sun%2CSat&card_width=500&card_height=200&v=1" alt="GitHub Streak" /></a>
 </div>
 
 <br />
